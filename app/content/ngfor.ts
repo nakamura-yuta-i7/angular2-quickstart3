@@ -1,5 +1,5 @@
 import { Component } from "angular2/core";
-import { NgFor01 } from "ngfor/ngfor01";
+import { NgFor01 } from "./ngfor/ngfor01";
 
 @Component({
 	selector: `app-content-ngfor`,
